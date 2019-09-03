@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "EditCar";
+}
+
+
+
+<h1>Edit Car </h1>
+
+<form action="EditCar" method="post">
+    <input type="hidden" name="Id" value="@Model.Id" /> @*hidden because it can not change*@
+    <input type="text" name="make" value="@Model.make" placeholder="@Model.make" />
+    <input type="text" name="model" value="@Model.model" placeholder="@Model.model" />
+    <input type="number" name="year" value="@Model.year" placeholder="@Model.year" />
+    <input type="text" name="color" value="@Model.color" placeholder="@Model.color" />
+
+    <input type="submit" value="Submit!" />
+</form>

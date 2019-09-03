@@ -1,0 +1,14 @@
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\bin\Debug\netcoreapp2.2\CarSearch.deps.json
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\bin\Debug\netcoreapp2.2\CarSearch.runtimeconfig.json
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\bin\Debug\netcoreapp2.2\CarSearch.runtimeconfig.dev.json
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\bin\Debug\netcoreapp2.2\CarSearch.dll
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\obj\Debug\netcoreapp2.2\CarSearch.csprojAssemblyReference.cache
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\obj\Debug\netcoreapp2.2\CarSearch.csproj.CoreCompileInputs.cache
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\obj\Debug\netcoreapp2.2\CarSearch.RazorAssemblyInfo.cache
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\obj\Debug\netcoreapp2.2\CarSearch.RazorAssemblyInfo.cs
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\obj\Debug\netcoreapp2.2\CarSearch.AssemblyInfoInputs.cache
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\obj\Debug\netcoreapp2.2\CarSearch.AssemblyInfo.cs
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\obj\Debug\netcoreapp2.2\CarSearch.RazorTargetAssemblyInfo.cache
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\bin\Debug\netcoreapp2.2\CarSearch.pdb
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\obj\Debug\netcoreapp2.2\CarSearch.dll
+C:\Users\achia\OneDrive\Desktop\Capstone\CarSearch\CarSearch\obj\Debug\netcoreapp2.2\CarSearch.pdb
